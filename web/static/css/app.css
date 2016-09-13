@@ -1,0 +1,12 @@
+/* This file is for your main application css. */
+
+html,
+body,
+.container-full {
+    height: 100%;
+}
+
+.iframe-video {
+    height: 300px;
+    width: 100%;
+}

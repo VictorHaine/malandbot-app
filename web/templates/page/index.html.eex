@@ -1,0 +1,83 @@
+   
+  <div class="row">
+    <iframe src="https://appear.in/malandbot" class="iframe-video"></iframe>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+      <button id="btn-forward" class="btn btn-block btn-success">
+        <span class="glyphicon glyphicon-arrow-up"></span>
+      </button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <button id="btn-left" class="btn btn-block btn-success">
+        <span class="glyphicon glyphicon-arrow-left"></span>
+      </button>
+    </div>
+    <div class="col-md-4">
+      <button id="btn-on-off" class="btn btn-block btn-warning">
+        <span class="glyphicon glyphicon-stop"></span>
+      </button>
+    </div>
+    <div class="col-md-4">
+      <button id="btn-right" class="btn btn-block btn-success">
+        <span class="glyphicon glyphicon-arrow-right"></span>
+      </button>
+    </div>
+  </div>
+   <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+      <button id="btn-backward" class="btn btn-block btn-success">
+        <span class="glyphicon glyphicon-arrow-down"></span>
+      </button>
+    </div>
+  </div>
+
+<!--
+    <iframe src="https://appear.in/malandbot" class="iframe-60pct"></iframe>
+      <div class="row">
+        <div class="col"></div>
+        <div class="col">
+
+          <div class="card">
+            <div class="row">
+              <div class="col">
+              </div>
+              <div class="col">
+                <button id="btn-forward" class="button button-block ion-chevron-up button-calm"></button>
+              </div>
+              <div class="col">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col">
+                <button id="btn-left" class="button button-block ion-chevron-left  button-calm"></button>
+              </div>
+              <div class="col">
+                <button id="btn-on-off" class="button button-block ion-power button-assertive"></button>
+              </div>
+              <div class="col">
+                <button id="btn-right" class="button button-block ion-chevron-right button-calm"></button>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col">
+              </div>
+              <div class="col">
+                <button id="btn-backward" class="button button-block ion-chevron-down  button-calm"></button>
+              </div>
+              <div class="col">
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col">
+
+        </div>
+
+      </div>-->
